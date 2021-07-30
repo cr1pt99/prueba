@@ -72,6 +72,7 @@ body {
                     @endauth
                 </div>
             @endif        
-
+                <h1>agregando texto de develop2</h1>
+                <h5>unomas de dev2</h5>
     </body>
 </html>
