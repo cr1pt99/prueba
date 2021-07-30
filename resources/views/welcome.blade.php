@@ -59,6 +59,7 @@ body {
         <h3>texto2222</h3>
         <h1>tercer commit develop1</h1>
         <p> skdjsfjsdfsdkfhjskdhfjskdfhsjdkfskdfhsdjkfkdf</p>
+               
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
@@ -77,6 +78,9 @@ body {
 
 
                <h1>hola mundo develop2</h1>
+               <br>
                <p>adasldkasdj asdsañdas asjkdasñdkasñd sjadjask develop 2</p>
+               <br>
+               <h1 >se agrego trecer text develop1</h1>
     </body>
 </html>
