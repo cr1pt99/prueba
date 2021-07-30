@@ -74,6 +74,6 @@ body {
                     @endauth
                 </div>
             @endif        
-
+                <h1>agregando texto de develop2</h1>
     </body>
 </html>
